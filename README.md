@@ -14,7 +14,11 @@
 
 ## 🐱 My Github Stats 🐱
 <div>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=youbbin&theme=dracula&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=youbbin&hide=javascript&layout=compact)](https://github.com/youbbin/github-readme-stats)
 </div>
+<a href="https://github.com/youbbin">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=youbbin&theme=dracula" />
+</a>
+<a href="https://github.com/youbbin">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=youbbin&layout=compact&langs_count=8&card_width=320&theme=dracula&hide=javascript"/>
+</a>
+

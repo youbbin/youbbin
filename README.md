@@ -1,5 +1,4 @@
-# LEE YOUBIN
-
+![github-header-image](https://github.com/youbbin/youbbin/assets/91596873/4cc12f89-6b02-441b-90fa-46a96762599b)
 
 ## ⭐ Tech Stack ⭐
 <div>

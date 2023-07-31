@@ -16,9 +16,9 @@
 <div>
 </div>
 <a href="https://github.com/youbbin">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=youbbin&theme=dracula" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=youbbin&theme=rose" />
 </a>
 <a href="https://github.com/youbbin">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=youbbin&layout=compact&langs_count=8&card_width=320&theme=dracula&hide=javascript"/>
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=youbbin&layout=compact&langs_count=8&card_width=320&theme=rose&hide=javascript"/>
 </a>
 

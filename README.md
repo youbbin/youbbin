@@ -1,5 +1,5 @@
 ![github-header-image](https://github.com/youbbin/youbbin/assets/91596873/480ef7f4-8fce-4d23-9f1e-0753a16164eb)
-<a href="https://velog.io/@youbbin"><img src="https://img.shields.io/badge/Velog-3DDC84?style=flat&logo=Blogger&logoColor=white"/></a>
+
 
 ## ⭐ Tech Stack ⭐
 <div>
@@ -11,6 +11,12 @@
 ## 📚 Currently Studying & Interested In 📚
 <div>
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white"/> <img src="https://img.shields.io/badge/Apache Hadoop-66CCFF?style=flat&logo=apachehadoop&logoColor=white"/>
+</div>
+<br>
+
+## ⭐ Tech Blog ⭐
+<div>
+<a href="https://velog.io/@youbbin"><img src="https://img.shields.io/badge/Velog-3DDC84?style=flat&logo=Blogger&logoColor=white"/></a>
 </div>
 <br>
 

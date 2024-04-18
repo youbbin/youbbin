@@ -1,5 +1,4 @@
-![github-header-image](https://github.com/youbbin/youbbin/assets/91596873/480ef7f4-8fce-4d23-9f1e-0753a16164eb)
-
+![header](https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=LEE%20YOUBIN&reversal=false)
 
 ## ⭐ Tech Stack ⭐
 <div>

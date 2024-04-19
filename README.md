@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=0:F6F0DF,100:DDB6A8&text=Lee%20Youbin&reversal=false&fontAlign=50&fontAlignY=50&descAlign=100)
+![header](https://capsule-render.vercel.app/api?type=waving&height=250&color=0:E55D87,100:5FC3E4&text=LEE%20YOUBIN&reversal=false&fontColor=ffffff)
 
 ## ⭐ Tech Stack ⭐
 <div>

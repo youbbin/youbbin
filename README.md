@@ -23,7 +23,7 @@
 <div>
 </div>
 <a href="https://github.com/youbbin">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=youbbin&theme=rose" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=youbbin&theme=rose&count_private=true" />
 </a>
 <a href="https://github.com/youbbin">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=youbbin&layout=compact&langs_count=8&card_width=320&theme=rose&hide=javascript"/>

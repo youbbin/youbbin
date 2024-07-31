@@ -13,7 +13,7 @@
 </div>
 <br>
 
-## ⭐ Tech Blog ⭐
+## 🖍️ Tech Blog 🖍️
 <div>
 <a href="https://velog.io/@youbbin"><img src="https://img.shields.io/badge/Velog-3DDC84?style=flat&logo=Blogger&logoColor=white"/></a>
 </div>
